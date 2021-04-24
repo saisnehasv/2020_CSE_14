@@ -18,4 +18,6 @@ Group No: G1
 
 Project Guide: Dr. Swathi K
 
+Department: Department of Computer Science & Engineering 
+
 College: KS Institute of Technology 
