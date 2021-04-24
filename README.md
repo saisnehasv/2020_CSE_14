@@ -12,7 +12,9 @@ Team Members:
 
 3.Spoorthi V-   1KS17CS082
 
-Group: 2020_CSE_14
+Team Name: 2020_CSE_14
+
+Group: G1
 
 Project Guide: Dr. Swathi K
 
