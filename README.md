@@ -14,7 +14,7 @@ Team Members:
 
 Team Name: 2020_CSE_14
 
-Group: G1
+Group No: G1
 
 Project Guide: Dr. Swathi K
 
