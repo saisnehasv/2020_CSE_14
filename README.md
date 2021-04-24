@@ -2,7 +2,7 @@
 
 Final Year VTU Project 
 
-Project Name:"Intuitive Perception: Speech Recognition Using Machine Learning"
+Project Name: "Intuitive Perception: Speech Recognition Using Machine Learning"
 
 Team Members:
 
