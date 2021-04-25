@@ -1,18 +1,3 @@
-''' 
-extract_mouth_batch.py
-    This script will extract mouth crop of every single video inside source directory
-    while preserving the overall structure of the source directory content.
-
-Usage:
-    python extract_mouth_batch.py [source directory] [pattern] [target directory] [face predictor path]
-
-    pattern: *.avi, *.mpg, etc 
-
-Example:
-    python scripts/extract_mouth_batch.py evaluation/samples/GRID/ *.mpg TARGET/ common/predictors/shape_predictor_68_face_landmarks.dat
-
-    Will make directory TARGET and process everything inside evaluation/samples/GRID/ that match pattern *.mpg.
-'''
 
 from lipnet.lipreading.videos import Video
 import os, fnmatch, sys, errno  
