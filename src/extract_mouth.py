@@ -5,8 +5,6 @@ SOURCE_PATH = sys.argv[1]
 SOURCE_EXTS = sys.argv[2]
 TARGET_PATH = sys.argv[3]
 
-FACE_PREDICTOR_PATH = sys.argv[4]
-
 def mkdir_p(path):
     try:
         os.makedirs(path)
