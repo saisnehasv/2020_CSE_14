@@ -1,4 +1,3 @@
-from lipnet.lipreading.videos import Video
 import os, fnmatch, sys, errno  
 from skimage import io
 
