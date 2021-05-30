@@ -1,7 +1,11 @@
 import cv2
 import os
-
+//using a built in haar cascade classifier file for the face region in OpenCV 
 classifier = cv2.CascadeClassifier(cv2.data.haarcascades+"haarcascade_frontalface_default.xml")
+
+/*mouth_cascade= cv2.CascadeClassifier(cv2.data.haarcascades+"haarcascade_mcs_mouth.xml")
+Throwing an error 
+*/
 
 dirFace = 'cropped_face'
 
